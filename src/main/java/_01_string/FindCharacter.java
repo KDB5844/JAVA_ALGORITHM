@@ -24,7 +24,6 @@ public class FindCharacter {
 
     public static final int MAX_SIZE = 100;
 
-
     public static void main(String[] args) {
         int findCnt = 0;
         System.out.print(">");
