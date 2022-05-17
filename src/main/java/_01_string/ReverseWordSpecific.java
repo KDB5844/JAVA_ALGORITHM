@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class ReverseWordSpecific {
 
     public String solution(String arr) {
-        ArrayList<String> answer  = new ArrayList<>();
         char[] c = arr.toCharArray();
         int lt = 0, rt = c.length - 1;
 
